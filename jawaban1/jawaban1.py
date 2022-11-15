@@ -1,1 +1,1 @@
-print ("saya belajar bahasa pemrograman menggunakan python")
+print ("saya belajar bahas pemrograman menggunakan python")
